@@ -2,6 +2,10 @@
 
 Chef's Cookbook to Add a DNS Record / Update a DNS Record to a specified DNS server.
 
+Direct Link to the project on Github:
+
+http://github.com/harryyeh/chef-nsupdate
+
 # REQUIREMENTS
 
 ## Platform:
