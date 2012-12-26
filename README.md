@@ -6,7 +6,7 @@ Chef's Cookbook to Add a DNS Record / Update a DNS Record to a specified DNS ser
 
 ## Platform:
 
-The cookbook aims to be platform independant, but is tested on Ubuntu 12.04.
+The cookbook aims to be platform independent, but is tested on Ubuntu 12.04.
 
 # USAGE:
 
